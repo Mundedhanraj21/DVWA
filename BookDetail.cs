@@ -21,9 +21,9 @@ namespace Book_Store
     using System.Web.UI.WebControls;
     using System.Web.UI.HtmlControls;
 
-    /// <summary>
+    /// <summary>g
     ///    Summary description for BookDetail.
-    /// </summary>
+    /// </summary>fdxhdcfcgfcgf
 
 	public partial class BookDetail : System.Web.UI.Page
 	
